@@ -38,13 +38,15 @@ Project L is a third person action adventure souslike RPG game inspired by the f
 
 <h3 align="center">AI :</h3>
 <p align="center">
-- Different type of enemies with a simple AI behavior. (Patrol, Enter combat, Chase, Attack, Special Attack)
+- Different type of enemies with a simple AI behavior (Patrol, Enter Combat, Chase, Attack, Special Attack) <br/>
 <br />
-- Mob enemies
-<img src="https://media.giphy.com/media/RdkHNuin1VFk1nELsC/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
+Mob enemies<br />
+<img src="https://media.giphy.com/media/RdkHNuin1VFk1nELsC/giphy.gif" height="80%" width="80%" alt="Combat System"/>
 <br />
 <br />
-Boss enemies
+Boss enemies  <br/>
 <img src="https://media.giphy.com/media/WWwUkl5I14n2zIRTGh/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
+<br />
+<br />
 </p>
 
