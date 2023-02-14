@@ -1,7 +1,7 @@
 <h1>Project L</h1>
 
 <h2>Description</h2>
-Project L is a third person action adventure souslike RPG game inspired by the famous series Dark Souls. You will be facing with a variety of enemies and unique bosses. There will also be different puzzles that you will be able to challenge to progress in the game.
+Project L is a third person action adventure souslike RPG game inspired by the famous series Dark Souls. You will be facing a variety of enemies and unique bosses. There will also be different puzzles that you will be able to challenge to progress in the game.
 <br /> 
 
 
