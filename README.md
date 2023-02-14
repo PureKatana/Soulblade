@@ -9,7 +9,7 @@ Project L is a third person action adventure souslike RPG game inspired by the f
 
 - <b>Unreal Engine Blueprints</b> 
 
-<h2>Environments Used </h2>
+<h2>Engine Used </h2>
 
 - <b>Unreal Engine 5</b>
 
