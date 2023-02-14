@@ -19,7 +19,7 @@ Project L is a third person action adventure souslike RPG game inspired by the f
 <p align="center">
 - Stats system (Health and stamina) <br/>
 <br />
-- Advanced combat system with different type of combination attacks that deal a certain amount of damage and cost a certain amount of stamina.
+- Combat system with different type of combination attacks that deal a certain amount of damage and cost a certain amount of stamina.
 <br/>
 <img src="https://media.giphy.com/media/Y0Fv098OBD4GOiLd0H/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
 <br />
@@ -37,9 +37,14 @@ Project L is a third person action adventure souslike RPG game inspired by the f
 </p>
 
 <h3 align="center">AI :</h3>
-
 <p align="center">
- - Different type of enemies with a simple AI behavior. (Patrol, Enter combat, Chase, Attack, Special Attack)
- <img src="https://media.giphy.com/media/5NK7Y3Mq5geaRqklWY/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
- </p>
+- Different type of enemies with a simple AI behavior. (Patrol, Enter combat, Chase, Attack, Special Attack)
+<br />
+- Mob enemies
+<img src="https://media.giphy.com/media/RdkHNuin1VFk1nELsC/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
+<br />
+<br />
+Boss enemies
+<img src="https://media.giphy.com/media/WWwUkl5I14n2zIRTGh/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
+</p>
 
