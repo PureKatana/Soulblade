@@ -36,3 +36,10 @@ Project L is a third person action adventure souslike RPG game inspired by the f
   <img src="https://media.giphy.com/media/9TTnqmmSv68ahRS6Es/giphy.gif" height="80%" width="80%" alt="Combat System"/>
 </p>
 
+<h3 align="center">AI :</h3>
+
+<p align="center">
+ - Different type of enemies with a simple AI behavior. (Patrol, Enter combat, Chase, Attack, Special Attack)
+ <img src="https://media.giphy.com/media/5NK7Y3Mq5geaRqklWY/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
+ </p>
+
