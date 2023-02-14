@@ -28,32 +28,9 @@ Project L is a third person action adventure souslike RPG game inspired by the f
 <img src="https://media.giphy.com/media/iOpb2pelEg9dkT8tZ8/giphy.gif" height="80%" width="80%" alt="Combat System"/>
 <br />
 <br />
-Blocking mechanic with perfect block/parry <br/>
-<img src="https://media.giphy.com/media/UvdS9mzNlTfOFy1zCC/giphy.gif" height="80%" width="80%" alt="Combat System"/>
+- Blocking mechanic with perfect block/parry  <br/>
+<img src="https://media.giphy.com/media/uVhHCtgdVxrwLbjpfp/giphy-downsized-large.gif" height="80%" width="80%" alt="Combat System"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
